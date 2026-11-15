@@ -1,0 +1,2 @@
+Framo 1.30.2 (build 227)
+Instalator: Framo.dmg – Apple Silicon i Intel, macOS 15 lub nowszy.
