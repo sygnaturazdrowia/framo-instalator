@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Framo</title>
+    <item>
+      <title>Framo 1.33.0</title>
+      <pubDate>Tue, 24 Nov 2026 13:42:21 +0100</pubDate>
+      <sparkle:version>245</sparkle:version>
+      <sparkle:shortVersionString>1.33.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Framo 1.33.0</h3><ul><li>Menu ikony Framo: wyróżniona pozycja jako duży kafel na samej górze – ikona w niebieskim kółku, nazwa i skrót; podświetla się jak zwykły wiersz, także strzałkami. Domyślnie „Zrzut obszaru”; wybór (albo „Brak”) w Ustawieniach → Menu → „Wyróżniona pozycja”. Ta pozycja nie powtarza się już w liście niżej.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/sygnaturazdrowia/framo-instalator/main/Framo-1.33.0-245.zip" length="8112428" type="application/octet-stream" sparkle:edSignature="3ujYdbM7yjwzRswPKyt3FrPVCjSnCB1iHPp28hONTCRUygCqOP+Z4NEs58watZF4IvjyUI1S3Cx28TlpNCbJDA=="/>
+    </item>
+  </channel>
+</rss>
